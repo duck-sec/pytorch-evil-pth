@@ -20,7 +20,7 @@ This script creates an "evil" PyTorch model (`EvilModel`) that showcases a secur
 
    ```bash
    $ git clone https://github.com/duck-sec/pytorch-evil-pth.git
-   $ cd evil-pytorch-model
+   $ cd pytorch-evil-pth.git
    ```
 
 2. **Run the Script:**

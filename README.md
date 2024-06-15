@@ -1,4 +1,4 @@
-# Evil PyTorch Model
+# Evil PyTorch Model (.pth RCE Exploit)
 
 A Python script demonstrating a potential security vulnerability in PyTorch's model serialization using `torch.save`.
 

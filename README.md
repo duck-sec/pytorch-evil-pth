@@ -7,8 +7,6 @@ A Python script demonstrating a potential security vulnerability in PyTorch's mo
 - [Overview](#overview)
 - [Usage](#usage)
 - [Example](#example)
-- [Security Considerations](#security-considerations)
-- [License](#license)
 
 ## Overview
 
